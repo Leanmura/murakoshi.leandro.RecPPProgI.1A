@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626093028 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.ppprog1recu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
